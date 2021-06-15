@@ -1,0 +1,27 @@
+#id1{
+    background-image: url("https://res.cloudinary.com/practicaldev/image/fetch/s--ohpJlve1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg");
+    height: 540px;
+    border-radius: 20px;
+    background-size: cover;
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#id2{
+    background-image: url("https://i0.wp.com/blog.logrocket.com/wp-content/uploads/2020/12/react-netlify-logos.png?fit=730%2C487&ssl=1");
+    height: 540px;
+    border-radius: 20px;
+    background-size: cover;
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#id3{
+    background-image: url("https://res.cloudinary.com/practicaldev/image/fetch/s--ohpJlve1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/drquzbncy/image/upload/v1586605549/javascript_banner_sxve2l.jpg");
+    height: 540px;
+    border-radius: 20px;
+    background-size: cover;
+    width:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}

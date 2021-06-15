@@ -1,0 +1,21 @@
+
+.headerHeight{
+	height: 540px;
+}
+@media (max-width: 800px) {
+    .flex-edit{
+      flex-direction: column-reverse;
+	  margin-left: 0;
+	  justify-content: center;
+    }
+	.headerHeight{
+		height: 700px;
+	}
+}
+/* .colPad{
+	padding-left: 60px;
+}
+.col2Pad{
+	padding-left: 60px;
+} */
+
